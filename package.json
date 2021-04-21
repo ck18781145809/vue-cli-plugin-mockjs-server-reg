@@ -1,0 +1,19 @@
+{
+  "name": "vue-cli-plugin-mockjs-server-reg",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "vue-cli",
+    "mockjs",
+    "plugin"
+  ],
+  "author": "cccck",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mockjs": "^1.1.0",
+    "watch": "^1.0.2"
+  }
+}
