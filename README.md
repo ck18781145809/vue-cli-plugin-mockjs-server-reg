@@ -20,7 +20,7 @@ vue-cli-plugin-mockjs-server-reg is modified based on [vue-cli-plugin-mockjs-ser
 ## INSTALL
 
 ```bash
-vue add mockjs-server
+vue add mockjs-server-reg
 ```
 
 ## CONFIG
